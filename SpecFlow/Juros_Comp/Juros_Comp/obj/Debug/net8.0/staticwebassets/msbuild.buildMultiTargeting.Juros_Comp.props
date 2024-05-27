@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Juros_Comp.props" />
+</Project>
