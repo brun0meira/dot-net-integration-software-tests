@@ -46,6 +46,10 @@ namespace Temperatura.Testes
 }
 ```
 
+### Testes de Unidade - Exemplo 1: Execução do teste
+
+![execucao_xunit_unittest](./assets/tests_xUnit.png)
+
 ### Exemplo 2: .NET + Unit Testing + NUnit + Conversão de Temperaturas
 
 Com NUnit, utilizamos o atributo `[TestCase]` para definir os dados de teste:
@@ -71,6 +75,10 @@ namespace Temperatura.Testes
     }
 }
 ```
+
+### Testes de Unidade - Exemplo 2: Execução do teste
+
+![execucao_NUnit_unittest](./assets/tests_NUnit.png)
 
 ### Exemplo 3: .NET + Unit Testing + MSTest + Conversão de Temperaturas
 
@@ -99,6 +107,10 @@ namespace Temperatura.Testes
     }
 }
 ```
+
+### Testes de Unidade - Exemplo 3: Execução do teste
+
+![execucao_MSTest_unittest](./assets/tests_MSTest.png)
 
 ## Mock Objects
 
@@ -191,6 +203,10 @@ namespace ConsultaCredito.Testes
 }
 ```
 
+### Mock Objects - Exemplo 1: Execução do teste
+
+![execucao_moq_mock](./assets/QueryCreditXunitMoqFATests.png)
+
 ### Exemplo 2: .NET + xUnit + NSubstitute + Fluent Assertions
 
 Com NSubstitute, a criação de Mocks é mais direta e menos verbosa:
@@ -264,6 +280,10 @@ namespace ConsultaCredito.Testes
     }
 }
 ```
+
+### Mock Objects - Exemplo 2: Execução do teste
+
+![execucao_Nsubstitute_mock](./assets/QueryCreditXunitNSubstituteFATests.png)
 
 ## SpecFlow
 
@@ -389,6 +409,10 @@ namespace APIFinancas.Especificacoes
     }
 }
 ```
+
+### SpecFlow - Exemplo 1: Execução do teste
+
+![execucao_xunit_specflow](./assets/SpecFlow_Tests.png)
 
 ## Conclusão
 
