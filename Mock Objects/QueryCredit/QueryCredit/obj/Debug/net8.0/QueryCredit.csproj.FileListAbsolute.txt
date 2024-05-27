@@ -1,0 +1,14 @@
+/home/bruno/RiderProjects/QueryCredit/QueryCredit/obj/Debug/net8.0/QueryCredit.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/RiderProjects/QueryCredit/QueryCredit/obj/Debug/net8.0/QueryCredit.AssemblyInfoInputs.cache
+/home/bruno/RiderProjects/QueryCredit/QueryCredit/obj/Debug/net8.0/QueryCredit.AssemblyInfo.cs
+/home/bruno/RiderProjects/QueryCredit/QueryCredit/obj/Debug/net8.0/QueryCredit.csproj.CoreCompileInputs.cache
+/home/bruno/RiderProjects/QueryCredit/QueryCredit/bin/Debug/net8.0/QueryCredit
+/home/bruno/RiderProjects/QueryCredit/QueryCredit/bin/Debug/net8.0/QueryCredit.deps.json
+/home/bruno/RiderProjects/QueryCredit/QueryCredit/bin/Debug/net8.0/QueryCredit.runtimeconfig.json
+/home/bruno/RiderProjects/QueryCredit/QueryCredit/bin/Debug/net8.0/QueryCredit.dll
+/home/bruno/RiderProjects/QueryCredit/QueryCredit/bin/Debug/net8.0/QueryCredit.pdb
+/home/bruno/RiderProjects/QueryCredit/QueryCredit/obj/Debug/net8.0/QueryCredit.dll
+/home/bruno/RiderProjects/QueryCredit/QueryCredit/obj/Debug/net8.0/refint/QueryCredit.dll
+/home/bruno/RiderProjects/QueryCredit/QueryCredit/obj/Debug/net8.0/QueryCredit.pdb
+/home/bruno/RiderProjects/QueryCredit/QueryCredit/obj/Debug/net8.0/QueryCredit.genruntimeconfig.cache
+/home/bruno/RiderProjects/QueryCredit/QueryCredit/obj/Debug/net8.0/ref/QueryCredit.dll

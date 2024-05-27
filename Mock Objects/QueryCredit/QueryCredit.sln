@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryCredit", "QueryCredit\QueryCredit.csproj", "{9F607A41-4D7A-4D57-A2AA-820DD1A4868E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryCreditXunitMoqFA", "QueryCreditXunitMoqFA\QueryCreditXunitMoqFA.csproj", "{609BC61D-F8BF-49CC-BF53-5CBFABFF447B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryCreditXunitNSubstituteFA", "QueryCreditXunitNSubstituteFA\QueryCreditXunitNSubstituteFA.csproj", "{72A473A2-4D4B-4CF8-A070-90A28A67E656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F607A41-4D7A-4D57-A2AA-820DD1A4868E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F607A41-4D7A-4D57-A2AA-820DD1A4868E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F607A41-4D7A-4D57-A2AA-820DD1A4868E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F607A41-4D7A-4D57-A2AA-820DD1A4868E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{609BC61D-F8BF-49CC-BF53-5CBFABFF447B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609BC61D-F8BF-49CC-BF53-5CBFABFF447B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609BC61D-F8BF-49CC-BF53-5CBFABFF447B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609BC61D-F8BF-49CC-BF53-5CBFABFF447B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72A473A2-4D4B-4CF8-A070-90A28A67E656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A473A2-4D4B-4CF8-A070-90A28A67E656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A473A2-4D4B-4CF8-A070-90A28A67E656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A473A2-4D4B-4CF8-A070-90A28A67E656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
