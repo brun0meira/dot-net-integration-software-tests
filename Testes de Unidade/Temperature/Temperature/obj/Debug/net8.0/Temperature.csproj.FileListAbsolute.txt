@@ -1,0 +1,14 @@
+/home/bruno/RiderProjects/Temperature/Temperature/bin/Debug/net8.0/Temperature
+/home/bruno/RiderProjects/Temperature/Temperature/bin/Debug/net8.0/Temperature.deps.json
+/home/bruno/RiderProjects/Temperature/Temperature/bin/Debug/net8.0/Temperature.runtimeconfig.json
+/home/bruno/RiderProjects/Temperature/Temperature/bin/Debug/net8.0/Temperature.dll
+/home/bruno/RiderProjects/Temperature/Temperature/bin/Debug/net8.0/Temperature.pdb
+/home/bruno/RiderProjects/Temperature/Temperature/obj/Debug/net8.0/Temperature.GeneratedMSBuildEditorConfig.editorconfig
+/home/bruno/RiderProjects/Temperature/Temperature/obj/Debug/net8.0/Temperature.AssemblyInfoInputs.cache
+/home/bruno/RiderProjects/Temperature/Temperature/obj/Debug/net8.0/Temperature.AssemblyInfo.cs
+/home/bruno/RiderProjects/Temperature/Temperature/obj/Debug/net8.0/Temperature.csproj.CoreCompileInputs.cache
+/home/bruno/RiderProjects/Temperature/Temperature/obj/Debug/net8.0/Temperature.dll
+/home/bruno/RiderProjects/Temperature/Temperature/obj/Debug/net8.0/refint/Temperature.dll
+/home/bruno/RiderProjects/Temperature/Temperature/obj/Debug/net8.0/Temperature.pdb
+/home/bruno/RiderProjects/Temperature/Temperature/obj/Debug/net8.0/Temperature.genruntimeconfig.cache
+/home/bruno/RiderProjects/Temperature/Temperature/obj/Debug/net8.0/ref/Temperature.dll

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Temperature", "Temperature\Temperature.csproj", "{6E82C0F5-47CB-4169-A81C-F7694CCCDF5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperaturexUnit", "TemperaturexUnit\TemperaturexUnit.csproj", "{533DCE58-0355-4016-8563-C762DBBF91D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureNUnit", "TemperatureNUnit\TemperatureNUnit.csproj", "{3C85113A-E5E2-4416-BE91-5D79BDD2A5E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperatureMSTest", "TemperatureMSTest\TemperatureMSTest.csproj", "{44ED832C-84DA-4069-AB5A-2FA879A290FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E82C0F5-47CB-4169-A81C-F7694CCCDF5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E82C0F5-47CB-4169-A81C-F7694CCCDF5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E82C0F5-47CB-4169-A81C-F7694CCCDF5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E82C0F5-47CB-4169-A81C-F7694CCCDF5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{533DCE58-0355-4016-8563-C762DBBF91D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533DCE58-0355-4016-8563-C762DBBF91D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533DCE58-0355-4016-8563-C762DBBF91D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533DCE58-0355-4016-8563-C762DBBF91D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C85113A-E5E2-4416-BE91-5D79BDD2A5E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C85113A-E5E2-4416-BE91-5D79BDD2A5E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C85113A-E5E2-4416-BE91-5D79BDD2A5E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C85113A-E5E2-4416-BE91-5D79BDD2A5E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44ED832C-84DA-4069-AB5A-2FA879A290FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44ED832C-84DA-4069-AB5A-2FA879A290FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44ED832C-84DA-4069-AB5A-2FA879A290FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44ED832C-84DA-4069-AB5A-2FA879A290FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
